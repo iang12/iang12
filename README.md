@@ -13,7 +13,7 @@ My name is Ian Oliveira, currently living in Brazil!
 - :blue_heart: Techs: Flutter, Dart, Firebase, Python and Django...
 - :books: Computer science at UESPI...
 ## 👯 Communities
-- Founder at [Flutter Piauí](https://www.instagram.com/flutter_piaui/) (Uma Comunidade De Flutter no Piauí)
-- Co-organizer at [Flutterando](https://flutterando.com.br/) (A Maior comunidade de Flutter no Brasil)
+- Founder at [Flutter Piauí](https://www.instagram.com/flutter_piaui/) (A Flutter Community in Piauí)
+- Co-organizer at [Flutterando](https://flutterando.com.br/) (The Largest Flutter Community in Brazil)
 
 ---
