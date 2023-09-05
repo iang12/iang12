@@ -10,7 +10,7 @@
 
 My name is Ian Oliveira, currently living in Brazil!
 
-- :man_technologist: I'm a mobile developer at F-Team.
+- :man_technologist: I'm mobile software enginner at FTeam.
 - :blue_heart: Techs: Flutter, Dart, Firebase, Python and Django...
 - :books: Bachelor Degree in Computer Science...
 ## 👯 Communities
