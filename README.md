@@ -10,12 +10,12 @@
 
 My name is Ian Oliveira, currently living in Brazil!
 
-- :man_technologist: I'm mobile software enginner at FTeam.
-- :blue_heart: Techs: Flutter, Dart,Kotlin, Firebase, Python and Django...
+- :man_technologist: I'm mobile software enginner at Exa.
+- :blue_heart: Techs: Flutter, Dart, Kotlin, Swift, Firebase, Python and Django...
 - :books: Bachelor Degree in Computer Science...
 ## 👯 Communities
 - Founder at [Flutter Piauí](https://www.instagram.com/flutter_piaui/) (A Flutter Community in Piauí)
-- Co-organizer at [Flutterando](https://flutterando.com.br/) (The Largest Flutter Community in Brazil)
+- Ex-Coorganizer at [Flutterando](https://flutterando.com.br/) (The Largest Flutter Community in Brazil)
 - Community leader at [GDG Parnaíba](https://gdg.community.dev/gdg-parnaiba/) (Google Developer Groups in Parnaíba)
 
 ---
