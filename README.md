@@ -10,7 +10,7 @@
 
 My name is Ian Oliveira, currently living in Brazil!
 
-- :man_technologist: I'm mobile software enginner at Exa.
+- :man_technologist: I'm mobile software enginner at Appmax.
 - :blue_heart: Techs: Flutter, Dart, Kotlin, Swift, Firebase, Python and Django...
 - :books: Bachelor Degree in Computer Science...
 ## 👯 Communities
